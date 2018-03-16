@@ -130,8 +130,7 @@ namespace ConsoleApp1
 
             Console.ReadKey();
 
-            Console.Beep();
-
+       
 
         }
     }
